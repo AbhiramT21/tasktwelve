@@ -19,8 +19,8 @@ This project is a simple registration form created using HTML, CSS, and JavaScri
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
-   cd taskten
+   git clone "https://github.com/AbhiramT21/tasktwelve"
+   cd tasktwelve
    ```
 
 2. **Open with Live Server**:

@@ -21,6 +21,7 @@ This project is a simple registration form created using HTML, CSS, and JavaScri
    ```bash
    git clone "https://github.com/AbhiramT21/tasktwelve"
    cd tasktwelve
+   unzip tasktwelve.zip
    ```
 
 2. **Open with Live Server**:
